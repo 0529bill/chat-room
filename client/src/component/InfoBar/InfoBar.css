@@ -1,0 +1,11 @@
+#InfoRoom {
+  background: #2979ff;
+  color: white;
+  border-radius: 10px 10px 0px 0px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+#InfoCloseIcon {
+  justify-content: center;
+}

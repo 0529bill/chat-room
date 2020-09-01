@@ -1,0 +1,22 @@
+#ChatContentCard {
+  background-color: #f3f3f3;
+  border-radius: 20px;
+}
+
+#ChatContentAdmin {
+  color: #828282;
+}
+
+#ChatContentReplyCard {
+  background-color: #2979ff;
+  border-radius: 20px;
+  color: white;
+}
+
+#ChatContainerReplyUser {
+  color: #828282;
+}
+
+#ChatContentUser {
+  justify-content: flex-end;
+}

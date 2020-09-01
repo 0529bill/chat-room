@@ -1,0 +1,13 @@
+#Scroll {
+  /* overflow: auto; */
+  height: 100%;
+}
+.messageScroll {
+  height: 75%;
+}
+
+@media (max-width: 764px) {
+  .messageScroll {
+    height: 84%;
+  }
+}
